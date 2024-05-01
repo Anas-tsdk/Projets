@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\n\ Classe\ Command\ -\ une\ commande\ du\ jeu\ d'aventure\ Zuul.\n\n\ @author\ A.Tsundyk\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructeur\ Command()\ naturel\ \n\ @param\ pCommandWord\ Mot\ de\ commande\n\ @param\ pSecondWord\ Mot\ de\ commande\ suppl\u00E9mentaire/Direction\n\ \n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\n\ premier\ accesseurs\n\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\n\ \ndeuxieme\ accesseurs\n\ \n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\n\ \ \nLa\ fonction\ qui\ verifie\ si\ il\ y\ a\ un\ second\ mot\ \n\ \n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\n\ \nFonction\ qui\ retourne\ vrai\ si\ le\ premier\ mot\ est\ null\ \n\ \n
+numComments=6

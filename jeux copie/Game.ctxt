@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\nClasse\ Game\ -\ lance\ le\ jeu\nCette\ classe\ permet\ de\ cr\u00E9er\ et\ lancer\ une\ instance\ du\ jeu.\ Elle\ contient\ une\ instance\ de\ la\ classe\ GameEngine,\nqui\ g\u00E8re\ la\ logique\ du\ jeu,\ et\ une\ instance\ de\ la\ classe\ UserInterface,\ qui\ fournit\ une\ interface\ utilisateur\ pour\ninteragir\ avec\ le\ jeu.\n@author\ Anastasia\ Tsundyk\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\nConstructeur\ par\ d\u00E9faut\ de\ la\ classe\ Game.\nCr\u00E9e\ une\ nouvelle\ instance\ de\ GameEngine\ et\ de\ UserInterface,\ et\ associe\ l'interface\ utilisateur\ au\ moteur\ de\ jeu.\n
+numComments=2

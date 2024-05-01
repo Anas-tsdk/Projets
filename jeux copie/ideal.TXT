@@ -1,0 +1,12 @@
+go est
+go sud
+go est
+go nord
+go est
+go est
+go haut
+go bas
+go sud
+go nord
+go nord
+go ouest

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\n\ Cette\ classe\ est\ responsable\ de\ la\ gestion\ des\ items\ du\ jeu\n\ \n\ Anastasia\ Tsundyk\n
+comment1.params=pLocation
+comment1.target=ItemList(java.lang.String)
+comment1.text=\n\ Constructeur\ naturel\n\ \n\ @param\ pLocation\ Localisation\ de\ la\ liste\ d'items\n
+comment2.params=pItem
+comment2.target=Item\ getItem(java.lang.String)
+comment2.text=\n\ Accesseur\ de\ l'item\n\ \n\ @param\ pItem\ Chaine\ de\ caract\u00E8res\ de\ l'item\ auquel\ on\ souhaite\ acceder\ dans\ la\ liste\ d'items\n\ @return\ L'item\ recherch\u00E9\ par\ son\ nom\n
+comment3.params=
+comment3.target=java.util.HashMap\ getItems()
+comment3.text=\n\ Accesseur\ de\ la\ liste\ d'items\n\ \n\ @return\ HashMap\ contenant\ tous\ les\ items\n
+comment4.params=
+comment4.target=java.lang.String\ getItemString()
+comment4.text=\n\ Fonction\ qui\ retourne\ sous\ forme\ de\ chaine\ de\ caract\u00E8re\ la\ liste\ d'items\n\ \n\ @return\ Chaine\ de\ caract\u00E8res\ de\ la\ liste\n
+comment5.params=pName\ pItem
+comment5.target=void\ ajoutItem(java.lang.String,\ Item)
+comment5.text=\n\ Proc\u00E9dure\ qui\ ajoute\ un\ item\ \u00E0\ la\ liste\ d'items\n\ \n\ @param\ pName\ Clef\ de\ la\ HashMap\ (nom\ de\ l'item)\n\ @param\ pItem\ Item\ \u00E0\ ins\u00E9rer\ dans\ la\ HashMap\n
+comment6.params=pName
+comment6.target=void\ removeItem(java.lang.String)
+comment6.text=\n\ Proc\u00E9dure\ qui\ supprime\ un\ item\ de\ la\ HashMap\n\ \n\ @param\ pName\ Clef\ de\ l'item\ \u00E0\ supprimer\n
+numComments=7

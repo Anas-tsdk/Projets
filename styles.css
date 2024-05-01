@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(184, 184, 244, 0.744); /* Couleur de fond bleu marine */
+    font-family: 'Roboto', sans-serif;
+    margin: 0; /* Supprime les marges par défaut du corps */
+}
+/* Style pour la bande noire en tête */
+header {
+    background-color: rgb(255, 255, 255);
+    color: #000000b0; /* Couleur du texte */
+    padding: 20px 0; /* Espace intérieur */
+    text-align: center; /* Centrage du contenu */
+}
+
+/* Style pour le titre */
+h1 {
+    margin: 0; /* Supprime les marges par défaut */
+}
+
+/* Style pour le menu de navigation */
+nav {
+    position: fixed; /* Positionnement fixe pour centrer sur la page */
+    top: 50%; /* Décalage de 50% vers le haut */
+    left: 50%; /* Décalage de 50% vers la gauche */
+    transform: translate(-50%, -50%); /* Déplacement de -50% de la largeur et de la hauteur */
+    text-align: center; /* Centre le contenu horizontalement */
+}
+
+/* Style pour les éléments de la liste */
+nav ul {
+    list-style: none; /* Suppression des marqueurs de liste */
+    padding: 0; /* Suppression des marges intérieures */
+}
+
+nav li {
+    display: block; /* Affichage en bloc pour chaque élément de la liste */
+    margin: 50px 0; /* Espacement vertical entre les éléments */
+}
+
+nav a {
+    text-decoration: none; /* Suppression du soulignement des liens */
+    color: black; /* Couleur des liens */
+    font-size: 20px; /* Taille de la police des liens */
+}
+
+footer {
+    position: fixed; /* Positionnement fixe pour centrer sur la page */
+    bottom: 0; /* Collé en bas */
+    right: 2%; /* Décalage de 50% vers la gauche */  
+    text-align: center; /* Centre le contenu horizontalement */
+}

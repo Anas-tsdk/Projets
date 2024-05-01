@@ -1,0 +1,11 @@
+go
+aide
+quitter
+regarder
+manger
+retour
+test
+prendre
+laisser
+charger
+activer

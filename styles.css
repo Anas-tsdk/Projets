@@ -51,3 +51,11 @@ footer {
     right: 2%; /* Décalage de 2% vers la gauche */  
     text-align: center; /* Centre le contenu horizontalement */
 }
+/* Style pour centrer le texte au milieu de la page */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
